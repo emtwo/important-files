@@ -1,0 +1,11 @@
+[user]
+	name = Marina Samuel
+	email = marina.samuel25@gmail.com
+[github]
+	user = emtwo
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[apply]
+	whitespace = fix
